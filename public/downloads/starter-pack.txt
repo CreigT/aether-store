@@ -1,0 +1,11 @@
+AETHER STARTER PACK — SAMPLE
+============================
+
+Replace this file with your real pack after you write it.
+
+1. Write the offer on one page.
+2. Put a price a stranger would pay.
+3. Take payment with Stripe.
+4. Deliver a file or unlock a page.
+
+That is a store.
