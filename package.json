@@ -1,0 +1,25 @@
+{
+  "name": "aether-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aether — simple AI-native digital store. Landing pages, catalog, Stripe paywalls.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.2.15",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "stripe": "^16.12.0",
+    "jose": "^5.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.16.10",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.6.2"
+  }
+}
